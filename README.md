@@ -281,15 +281,22 @@ Primer repositorio en GitHub
     
 ## EJERCICIOS/PROBLEMAS PROPUESTOS
 - Cree una cuenta de usuario en github.
+	- ![Cuenta creada](CreaRep.png)
 - Configure su cuenta de estudiante (https://education.github.com/pack).
+
 - Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits y muestre los 3 últimos.
+	- ![Ultimos comits](LastC.png)
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main.
+- https://github.com/iMawe/Calculator
+
 
 ## CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso?
+	-Porque nos ayuda a llevar un seguimiento al código o al desarrollo de otros recursos. Tambien nos ayuda al momento de trabajar en equipos ya que facilita el trabajo de forma simultanea.
 - ¿Qué conductas éticas debe promocionarse cuando se usa un Sistema de Control de Versiones?
+	
 - ¿Qué son los entándares de codificación?
-
+	-Los entándares de codificación son un conjunto de reglas que han ido surgiendo con el paso del tiempo y las cuales pueden incrementar la calidad del código. Ejemplos de esto son la identación, los comentarios en el código, poner espaciados para una mejor comprensión y colocar nombres a las variables y a las funciones que sean entendibles.
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
 - https://guides.github.com/
 - https://git-scm.com/book/es/v2
