@@ -292,11 +292,19 @@ Primer repositorio en GitHub
 
 ## CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso?
+
 	-Porque nos ayuda a llevar un seguimiento al código o al desarrollo de otros recursos. Tambien nos ayuda al momento de trabajar en equipos ya que facilita el trabajo de forma simultanea.
+	
 - ¿Qué conductas éticas debe promocionarse cuando se usa un Sistema de Control de Versiones?
 	
+	-El uso de ramas secundarias para cada miembro o tarea en es de realizar todo en la rama maestra.
+	-Añadir un comentario cada vez que se sube un cambio para saber de forma rápida cuales son los nuevos cambios.
+	-Trabajar solo en la rama que nos corresponde para evitar errores.
+	
 - ¿Qué son los entándares de codificación?
+
 	-Los entándares de codificación son un conjunto de reglas que han ido surgiendo con el paso del tiempo y las cuales pueden incrementar la calidad del código. Ejemplos de esto son la identación, los comentarios en el código, poner espaciados para una mejor comprensión y colocar nombres a las variables y a las funciones que sean entendibles.
+	
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
 - https://guides.github.com/
 - https://git-scm.com/book/es/v2
