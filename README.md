@@ -281,11 +281,11 @@ Primer repositorio en GitHub
     
 ## EJERCICIOS/PROBLEMAS PROPUESTOS
 - Cree una cuenta de usuario en github.
-	- ![Cuenta creada](CreaRep.png)
+	- ![Cuenta creada](CreaRep.PNG)
 - Configure su cuenta de estudiante (https://education.github.com/pack).
 
 - Cree un nuevo proyecto personal y desarrolle el ejercicio resuelto en clase. Haga 3 commits y muestre los 3 últimos.
-	- ![Ultimos comits](LastC.png)
+	- ![Ultimos comits](LastC.PNG)
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main.
 - https://github.com/iMawe/Calculator
 
